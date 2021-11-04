@@ -1,0 +1,16 @@
+body { 
+
+background-color: lightgreen;
+}
+
+h1{ 
+
+color: white; 
+
+position: relative; /*relative to the previous element*/ 
+
+left: 600px; 
+
+  
+
+}
